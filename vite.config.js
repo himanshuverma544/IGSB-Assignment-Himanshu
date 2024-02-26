@@ -5,6 +5,9 @@ import eslint from 'vite-plugin-eslint';
 
 
 export default defineConfig({
+
+  base: "/IGSB-Assignment-Himanshu/",
+
   plugins: [
     react(),
 
